@@ -29,6 +29,5 @@ public class Main {
         humam2.introduceYourself();
         humam3.introduceYourself();
         humam4.introduceYourself();
-
     }
 }
